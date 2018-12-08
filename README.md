@@ -5,3 +5,5 @@ Density-based spatial clustering of applications with noise (DBSCAN) is a data c
 Using DBSCAN you don't need prior point out how many clusters you think like K-means, in some situation this is very convenience.
 
 This is swift generic version of DBSCAN algorithm.
+
+My code is based on [DBSCAN's wikipedia page](https://en.wikipedia.org/wiki/DBSCAN).
